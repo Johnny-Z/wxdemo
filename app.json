@@ -12,5 +12,19 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/repair/repair",
+      "text": "维修",
+      "iconPath": "iconPath",
+      "selectedIconPath": "selectedIconPath"
+    },
+    {
+      "pagePath": "pages/maintain/maintain",
+      "text": "维修",
+      "iconPath": "iconPath",
+      "selectedIconPath": "selectedIconPath"
+    }]
   }
 }
