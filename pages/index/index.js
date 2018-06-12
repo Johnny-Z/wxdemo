@@ -14,8 +14,8 @@ Page({
       url: '../logs/logs'
     })
   },
-  bindLogin:function(){
-    wx.navigateTo({
+  bindLoginTap:function(){
+    wx.switchTab({
       url: '../repair/repair'
     })
   },

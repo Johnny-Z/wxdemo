@@ -17,14 +17,26 @@
     "list": [{
       "pagePath": "pages/repair/repair",
       "text": "维修",
-      "iconPath": "iconPath",
-      "selectedIconPath": "selectedIconPath"
+      "iconPath": "images/repair.png",
+      "selectedIconPath": "images/repair_active.png"
     },
     {
       "pagePath": "pages/maintain/maintain",
-      "text": "维修",
-      "iconPath": "iconPath",
-      "selectedIconPath": "selectedIconPath"
+      "text": "保养",
+      "iconPath": "images/maintain.png",
+      "selectedIconPath": "images/maintain_active.png"
+    },
+    {
+      "pagePath": "pages/debug/debug",
+      "text": "安装",
+      "iconPath": "images/debug.png",
+      "selectedIconPath": "images/debug_active.png"
+    },
+    {
+      "pagePath": "pages/discover/discover",
+      "text": "发现",
+      "iconPath": "images/discover.png",
+      "selectedIconPath": "images/discover_active.png"
     }]
   }
 }

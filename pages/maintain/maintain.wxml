@@ -1,2 +1,4 @@
 <!--pages/maintain/maintain.wxml-->
-<text>pages/maintain/maintain.wxml</text>
+<view class='container maintain-list'>
+  <text>hello world!</text>
+</view>
